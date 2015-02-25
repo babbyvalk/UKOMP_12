@@ -7,12 +7,13 @@ By Fafa Apria Nugraha
 
 <https://twitter.com/FFapriaNGRHA/>
 
-*File Application*
+File Application
+------------------
 *	Di Dalam folder Konsumen Aplikasi Adalah Aplikasi untuk Konsumen.
 *	Di Dalam folder Admin Aplikasi Adalah Aplikasi untuk Admin di Agen.
 *	Di Dalam folder Database Dan PHP Adalah folder berisi database dan file PHP
 
-*Synopsis Application*
+Synopsis Application
 ----------------------
 	Aplikasi ini adalah aplikasi khusus untuk pelanggan B – Water, 
 	B – Water adalah agen pembelian aqua dan minuman yang lain nya yang berskala besar. 
@@ -24,14 +25,14 @@ By Fafa Apria Nugraha
 	dikirim atau belum.
 
 	
-*Manfaat*
+Manfaat
 ---------
 *	Memudahkan pelanggan untuk memesan minuman.
 *	Menghemat Tenaga karena pelanggan hanya menggunakan koneksi internet untuk memesan.
 *	Membuat seorang pelanggan berminat untuk memesan aqua dari android.
 
 	
-*Pengguna*
+Pengguna
 ----------
 *	Dewasa 
 *	Remaja
