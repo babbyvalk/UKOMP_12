@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fafa.adminb_aquaa"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name=".LaporanActivity"
+            android:label="@string/title_activity_laporan" >
+        </activity>
+        <activity
+            android:name=".ListActivity"
+            android:label="@string/title_activity_list" >
+        </activity>
+        <activity
+            android:name=".TestActivity"
+            android:label="@string/title_activity_test" >
+        </activity>
+        <activity
+            android:name=".DaftarPenjualanActivity"
+            android:label="@string/title_activity_daftar_penjualan" >
+        </activity>
+        <activity
+            android:name=".BerandaActivity"
+            android:label="@string/title_activity_beranda" >
+        </activity>
+        <activity
+            android:name=".EditDaftarActivity"
+            android:label="@string/title_activity_edit_daftar" >
+        </activity>
+        <activity
+            android:name=".LaporanPenjualanActivity"
+            android:label="@string/title_activity_laporan_penjualan" >
+        </activity>
+        <activity
+            android:name=".TabLaporanActivity"
+            android:label="@string/title_activity_tab_laporan" >
+        </activity>
+        <activity
+            android:name=".BulananActivity"
+            android:label="@string/title_activity_bulanan" >
+        </activity>
+        <activity
+            android:name=".TahunanActivity"
+            android:label="@string/title_activity_tahunan" >
+        </activity>
+        <activity
+            android:name=".TambahStockActivity"
+            android:label="@string/title_activity_tambah_stock" >
+        </activity>
+        <activity
+            android:name=".EditStockBarangActivity"
+            android:label="@string/title_activity_edit_stock_barang" >
+        </activity>
+        <activity
+            android:name=".AddStockActivity"
+            android:label="@string/title_activity_add_stock" >
+        </activity>
+    </application>
+
+</manifest>

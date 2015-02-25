@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavigationDrawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_laporan">LaporanActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_daftar_penjualan">DaftarPenjualanActivity</string>
+    <string name="title_activity_beranda">Beranda</string>
+    <string name="title_activity_edit_daftar">EditDaftarActivity</string>
+    <string name="title_activity_laporan_penjualan">LaporanPenjualanActivity</string>
+    <string name="title_activity_tab_laporan">TabLaporanActivity</string>
+    <string name="title_activity_bulanan">BulananActivity</string>
+    <string name="title_activity_tahunan">TahunanActivity</string>
+    <string name="title_activity_tambah_stock">TambahStockActivity</string>
+    <string name="title_activity_edit_stock_barang">EditStockBarangActivity</string>
+    <string name="title_activity_add_stock">AddStockActivity</string>
+
+</resources>
