@@ -6,6 +6,16 @@ Version 1.0.1 - We 25 Feb 2015
 By Fafa Apria Nugraha
 
 <https://twitter.com/FFapriaNGRHA/>
+Credits Application
+------------------
+*Nama Application	:	B – Water ( Penjualan Aqua )
+*Nama 				:	Fafa Apria Nugraha
+*Email				:	babbyvalk@gmail.com
+*Kelas				:	XII – Rekayasa Perangkat Lunak
+*NIS				:	10295
+*Absen				:	12
+*TTL				:	Jakarta, 22 April 1997
+
 
 File Application
 ------------------
